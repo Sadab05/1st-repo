@@ -4,7 +4,7 @@ git init
 #everytime to add something
 git add .
 
-
+evertime i change something
 git commit -m "first commit"
 
 
